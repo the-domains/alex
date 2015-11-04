@@ -1,4 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://twitter.com/alexbakus/status/661734698645721088'
+inLanguage: en
+starred: false
+keywords:
+  - twitter
+  - location
+  - favourites
+  - tweet
+  - rrbmbmzznf
+  - shopify
+  - zqdn0
+  - bakus
+  - copying
+  - hiccup
+description: 'favourites are now #hearts ? http://take.ms/zQdn0 twitter A/B Test?'
+datePublished: '2015-11-04T02:49:29.722Z'
+dateModified: '2015-11-04T02:49:20.738Z'
 author:
   - name: alexbakus
     url: 'http://twitter.com/alexbakus'
@@ -17,36 +37,20 @@ author:
           - 67
           - 67
 related: []
-publisher:
-  url: 'http://twitter.com'
-  name: Twitter
-  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
-  domain: twitter.com
-keywords:
-  - twitter
-  - location
-  - favourites
-  - tweet
-  - rrbmbmzznf
-  - shopify
-  - zqdn0
-  - bakus
-  - copying
-  - hiccup
-description: 'favourites are now #hearts ? http://take.ms/zQdn0 twitter A/B Test?'
-inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://twitter.com/alexbakus/status/661734698645721088'
-datePublished: '2015-11-04T02:41:40.742Z'
 title: ''
-dateModified: '2015-11-04T02:41:21.287Z'
 sourcePath: _posts/2015-11-04-favourites-are-now-hearts-httptakemszqdn0-twitter-a.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Twitter
+  domain: twitter.com
+  url: 'http://twitter.com'
+  favicon: 'https://abs.twimg.com/favicons/favicon.ico'
 _type: Comment
 _context: 'http://schema.org'
 
 ---
-> favourites are now &num;hearts &quest; http&colon;&sol;&sol;take&period;ms&sol;zQdn0 twitter A&sol;B Test&quest;
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/190b4e17-c7fd-4622-8e4e-c875e46e4a14.png)
+
+> * favourites are now \#hearts ? http://take.ms/zQdn0 twitter A/B Test?
