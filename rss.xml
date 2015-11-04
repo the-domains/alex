@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SAAS Warrior]]></title>
+        <description><![CDATA[SAAS Warrior]]></description>
+        <link>https://thegrid.ai/alex/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 Nov 2015 02:41:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/alex/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>favourites are now #hearts ? http://take.ms/zQdn0 twitter A/B Test?</p>]]></description>
+            <link>https://twitter.com/alexbakus/status/661734698645721088</link>
+            <guid isPermaLink="false">83b44787-f1b1-4fb0-92b5-306c92cd64ba</guid>
+            <pubDate>Wed, 04 Nov 2015 02:41:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[the beginning]]></title>
+            <description><![CDATA[<article><h1>the beginning</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f53ac3d-ebe9-4442-bd2d-e080a81edc03.jpg"></article>]]></description>
+            <link>https://thegrid.ai/alex/the-beginning/index.html</link>
+            <guid isPermaLink="false">98e81f6f-50f1-44e0-93c0-f03b918db3d1</guid>
+            <pubDate>Tue, 13 Oct 2015 01:17:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
